@@ -1,0 +1,36 @@
+
+
+body{background-color:#F5C7A9;
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+h1{color:#820000;
+text-align: center;
+font-family:cursive;
+
+ }
+h1:hover{
+  color: #FF731D;
+}
+
+
+
+p{
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+}
+img{
+  align-items: center;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+table{
+margin-left: auto;
+margin-right:auto;
+}
